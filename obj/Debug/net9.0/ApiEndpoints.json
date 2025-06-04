@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "calculadoraagua.Controllers.ConsumoController",
+    "Method": "Calcular",
+    "RelativePath": "api/Consumo/calcular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "calculadoraagua.Models.ConsumoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

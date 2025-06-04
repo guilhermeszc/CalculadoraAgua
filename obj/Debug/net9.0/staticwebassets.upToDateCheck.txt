@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\style.css
+C:\Users\Guilherme\calculadoraagua\wwwroot\style.css
+C:\Users\Guilherme\calculadoraagua\wwwroot\index.html
+C:\Users\Guilherme\calculadoraagua\wwwroot\script.js
